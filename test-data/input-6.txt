@@ -1,0 +1,4 @@
+# Secondary store empty after primary fires
+GT4500,5,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
