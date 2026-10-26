@@ -1,0 +1,4 @@
+# fire both stores
+GT4500,5,0,5,0
+TORPEDO,ALL
+EXIT

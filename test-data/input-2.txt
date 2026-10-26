@@ -1,0 +1,4 @@
+# empty primary store
+GT4500,0,0,5,0
+TORPEDO,SINGLE
+EXIT
